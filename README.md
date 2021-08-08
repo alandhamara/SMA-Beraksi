@@ -10,4 +10,4 @@ Memilik 3 fungsi yaitu pencari kata penting, typo correction, dan sentiment anal
 - Typo correction menggunakan algoritma Levenshtein Distance dari library NLTK
 - Sentiment analysis menggunakan Vader-multi yang mendukung multi-language
 
-Untuk keseluruhan file ada di dalam file Tugas Besar Mata Kuliah Kecerdasan Buatan
+Untuk keseluruhan file (html, css, dll) ada di dalam file Tugas Besar Mata Kuliah Kecerdasan Buatan
